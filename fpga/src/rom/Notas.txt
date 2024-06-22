@@ -1,0 +1,19 @@
+Mapa de rom:
+
+00000-07fff
+	32k_msx1_int
+08000-0ffff
+	32k_msx2p_int
+10000-13fff
+	16k_msx2p_subrom
+14000-17fff
+	16k_logo.bin
+18000-1bfff
+	16k_fm_opl
+1c000-1ffff
+	16k_mtdebug
+20000-3ffff
+	128k_Nextor-2.1.1.WonderTANG.ROM
+40000
+
+copy /b 32k_msx1_int.bin + 32k_msx2p_int.bin + 16k_msx2p_subrom.bin + 16k_logo.bin + 16k_fm_opl.bin + 16k_mtdebug.bin + 128k_Nextor-2.1.1.WonderTANG.ROM.bin goa'uld_rom.bin

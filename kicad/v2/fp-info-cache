@@ -1,0 +1,71 @@
+17173959092658
+LIB
+CP_Radial_D8.0mm_P3.50mm
+CP, Radial series, Radial, pin pitch=3.50mm, , diameter=8mm, Electrolytic Capacitor
+CP Radial series Radial pin pitch 3.50mm  diameter 8mm Electrolytic Capacitor
+0
+2
+2
+LIB
+DIP-40_W15.24mm_Socket
+40-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils), Socket
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil Socket
+0
+40
+40
+LIB
+HDMI
+
+
+0
+23
+23
+LIB
+PMOD
+Through hole straight pin header, 2x06, 2.54mm pitch, double rows
+Through hole pin header THT 2x06 2.54mm double row
+0
+12
+12
+LIB
+QMTECH_XC7A15T_35T
+Through hole straight pin header, 2x25, 2.54mm pitch, double rows
+Through hole pin header THT 2x25 2.54mm double row
+0
+100
+100
+LIB
+R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf
+Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm
+0
+2
+2
+LIB
+SMD_RES_1
+
+
+0
+2
+2
+LIB
+SOIC127P1032X265-20N
+
+
+0
+20
+20
+LIB
+TF-SMD_TF-012
+
+
+0
+15
+13
+LIB
+TSSOP-20
+
+
+0
+20
+20

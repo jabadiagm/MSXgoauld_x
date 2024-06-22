@@ -1,0 +1,12 @@
+===================================
+Configuration Memory information
+===================================
+File Format        MCS
+Interface          SPIX1
+Size               8M
+Start Address      0x00000000
+End Address        0x007FFFFF
+
+Addr1         Addr2         Date                    File(s)
+0x00000000    0x0021728B    Jun 21 13:08:02 2024    D:/datos/proyectos/45_QMTECH_XC7A15T/21_Goauld_x_oficial/Goauld_x.runs/impl_1/top.bit
+0x00400000    0x0043FFFF    May 18 23:30:13 2024    D:/datos/proyectos/45_QMTECH_XC7A15T/21_Goauld_x_oficial/src/rom/goauld_rom.bin
